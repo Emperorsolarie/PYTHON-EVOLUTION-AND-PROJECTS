@@ -9,4 +9,5 @@ if len(name_parts)>=2:
     print(f"Last_name: {last_name.upper()}")
 
 else:
+
     print("Enter at least two names")
